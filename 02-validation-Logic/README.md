@@ -19,6 +19,7 @@ It includes validation logic, query filtering, and JWT-based authentication for 
 
 📂 Folder Structure
 
+```
 validation-Logic/
 │
 ├── config/
@@ -28,7 +29,7 @@ validation-Logic/
 ├── app.js
 ├── server.js
 ├── package.json
-
+```
 ---
 
 🔗 API Endpoints
