@@ -34,6 +34,7 @@ middleware-chain/
 ---
 
 🧠 Learning Outcomes:
+
 • Understood how middleware works in Express
 • Learned how to protect routes using authentication
 • Implemented middleware chaining (multiple middlewares in one route)
