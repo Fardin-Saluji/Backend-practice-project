@@ -36,12 +36,12 @@ middleware-chain/
 
 🧠 Learning Outcomes:
 
-• Understood how middleware works in Express
-• Learned how to protect routes using authentication
-• Implemented middleware chaining (multiple middlewares in one route)
-• Learned how request flows through middleware → route → response
-• Implemented logging system (request execution time)
-• Improved backend code structure & modularization
+- Understood how middleware works in Express
+- Learned how to protect routes using authentication
+- Implemented middleware chaining (multiple middlewares in one route)
+- Learned how request flows through middleware → route → response
+- Implemented logging system (request execution time)
+- Improved backend code structure & modularization
 
 ---
 
