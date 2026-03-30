@@ -12,11 +12,12 @@ https://fardinsaluji-2836416.postman.co/workspace/fardin-saluji's-Workspace~e97d
 ---
 
 ✨ Key Features:
-• Middleware chaining (Auth + Timer)
-• Dummy token-based authentication
-• Protected route "/profile"
-• Request execution time logging
-• Clean and modular folder structure
+
+- Middleware chaining (Auth + Timer)
+- Dummy token-based authentication
+- Protected route "/profile"
+- Request execution time logging
+- Clean and modular folder structure
 
 ---
 
