@@ -74,6 +74,7 @@ Request Time: 6 ms
 📊 What Terminal Output Means:
 
 • "Auth Successful" → Token verified successfully
+
 • "Request Time: 6 ms" → API response time (performance check)
 
 ---
