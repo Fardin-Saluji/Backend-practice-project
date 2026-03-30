@@ -54,7 +54,9 @@ Checks token from query:
 👉 "/profile?token=1234"
 
 ✔️ If token correct → request allowed
+
 ❌ If token wrong → returns:
+
 👉 401 Unauthorized (Invalid Token)
 
 ---
