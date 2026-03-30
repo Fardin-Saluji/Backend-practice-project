@@ -48,7 +48,9 @@ middleware-chain/
 ⚙️ How It Works:
 
 1️⃣ Auth Middleware
+
 Checks token from query:
+
 👉 "/profile?token=1234"
 
 ✔️ If token correct → request allowed
