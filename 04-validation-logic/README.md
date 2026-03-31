@@ -54,41 +54,41 @@ validation-logic/
 🔥 API Endpoint
 
 👉 Update User
-
+```
 PUT /users/:id
-
+```
 📥 Request Body
-
+```
 {
   "name": "fardin"
 }
-
+```
 ---
 
 ✅ Success Response (200 OK)
-
+```
 {
   "_id": "697276782bbdd08a0ba3c143",
   "name": "fardin",
   "createdAt": "2026-01-22T19:11:52.143Z"
 }
-
+```
 ---
 
 ❌ Validation Error (400 Bad Request)
-
+```
 {
   "message": "Name cannot be empty"
 }
-
+```
 ---
 
 ❌ Server Error (500 Internal Server Error)
-
+```
 {
   "message": "Server error"
 }
-
+```
 ---
 
 🧠 Learning Outcomes
@@ -113,14 +113,14 @@ PUT /users/:id
 ---
 
 ▶️ How to Run
-
+```
 npm install
 npm run dev
-
+```
 Server runs on:
-
+```
 http://localhost:3000
-
+```
 ---
 
 🙌 Connect with Me
