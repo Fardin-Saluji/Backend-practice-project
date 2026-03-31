@@ -97,6 +97,11 @@ Response:
 ```
 Welcome to your profile page
 ```
+
+🔗 Connect with me
+
+👉 LinkedIn: https://www.linkedin.com/in/fardinsaluji/
+
 ---
 
 💡 This project helped me understand how backend systems handle
