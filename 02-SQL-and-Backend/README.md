@@ -106,7 +106,7 @@ https://fardinsaluji-2836416.postman.co/workspace/fardin-saluji's-Workspace~e97d
 
 🔗 Connect with me
 
-👉 LinkedIn: https://www.linkedin.com/in/your-linkedin-username
+👉 LinkedIn: https://www.linkedin.com/in/fardinsaluji/
 
 ---
 
