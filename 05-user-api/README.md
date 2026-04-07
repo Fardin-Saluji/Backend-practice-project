@@ -50,79 +50,79 @@ user-api/
 ---
 
 ⚙️ Installation & Setup
-
+```
 git clone https://github.com/Fardin-Saluji/React-Learning-Projects.git
 cd 14-shopping-cart   # (or your API folder)
 npm install
-
+```
 ---
 
 ▶️ Run Server
-
+```
 npm run dev
 # OR
 node server.js
-
+```
 ---
 
 🔐 Environment Variables (.env)
-
+```
 PORT=5000
 MONGO_URI=mongodb://localhost:27017/userdb
-
+```
 ---
 
 📡 API Endpoints
 
 🔹 Get All Users
-
+```
 GET /api/users
-
+```
 ---
 
 🔹 Pagination
-
+```
 GET /api/users?page=1&limit=5
-
+```
 ---
 
 🔹 Filtering
-
+```
 GET /api/users?age=22
 GET /api/users?name=Fardin
-
+```
 ---
 
 🔹 Sorting
-
+```
 GET /api/users?sort=age
 GET /api/users?sort=-age
-
+```
 ---
 
 🔹 Field Selection
-
+```
 GET /api/users?fields=name,email
-
+```
 ---
 
 🔹 Create User
-
+```
 POST /api/users
-
+```
 Body:
-
+```
 {
   "name": "Fardin",
   "email": "fardin@gmail.com",
   "role": "user",
   "age": 22
 }
-
+```
 ---
 
 📊 API Response Structure
-
+```
 {
   "status": "success",
   "page": 1,
@@ -137,7 +137,7 @@ Body:
     }
   ]
 }
-
+```
 ---
 
 📮 Postman API Testing
