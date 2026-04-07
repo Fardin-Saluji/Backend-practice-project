@@ -169,6 +169,12 @@ Body:
 
 ---
 
+🙌 Connect with Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/fardinsaluji/
+
+---
+
 📌 Conclusion
 
 This project shows how to convert a slow API into a scalable and production-ready API using backend optimization techniques.
