@@ -82,13 +82,13 @@ npm run dev
 🔗 API Endpoints
 
 ✅ GET Profile
-
+```
 GET /api/user/profile
-
+```
 ✅ POST Login
-
+```
 POST /api/user/login
-
+```
 ---
 
 📮 Postman Collection
@@ -169,6 +169,12 @@ Benefits:
 - MongoDB
 - Mongoose
 - Nodemon
+
+---
+
+🙌 Connect with Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/fardinsaluji/
 
 ---
 
