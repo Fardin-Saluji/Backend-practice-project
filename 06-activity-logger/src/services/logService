@@ -1,0 +1,18 @@
+const Log = require("../models/Log");
+const fallbackLogger = require("../utils/fallbackLogger");
+
+// const saved = await Log.create(data);
+// console.log("Saved:", saved);
+
+const logActivity = async (data) => {
+  try {
+    await Log.create(data);
+  } catch (err) {
+    console.error("DB Logging Failed:", err.message);
+    
+    // fallback mechanism
+    fallbackLogger(data);
+  }
+};
+
+module.exports = logActivity;
