@@ -174,6 +174,10 @@ https://fardinsaluji-2836416.postman.co/workspace/fardin-saluji's-Workspace~e97d
 - Nodemon
 
 ---
+🙌 Connect with Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/fardinsaluji/
+---
 
 👨‍💻 Author
 
