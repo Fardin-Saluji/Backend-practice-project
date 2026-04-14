@@ -23,7 +23,7 @@ It ensures proper validation, prevents duplicate data, and provides structured e
 📊 API Response Structure
 
 ✅ Success Response
-
+```
 {
   "success": true,
   "data": {
@@ -34,11 +34,11 @@ It ensures proper validation, prevents duplicate data, and provides structured e
     "createdAt": "2026-04-13T18:12:48.000Z"
   }
 }
-
+```
 ---
 
 ❌ Error Response
-
+```
 {
   "success": false,
   "error": {
@@ -46,7 +46,7 @@ It ensures proper validation, prevents duplicate data, and provides structured e
     "statusCode": 400
   }
 }
-
+```
 ---
 
 📁 Project Structure
@@ -79,17 +79,17 @@ data-integrity-system/
 ---
 
 ⚙️ Installation
-
+```
 git clone <your-repo-link>
 cd data-integrity-system
 npm install
-
+```
 ---
 
 ▶️ Run Project
-
+```
 npm run dev
-
+```
 ---
 
 🔗 API Endpoint
@@ -97,7 +97,7 @@ npm run dev
 ✅ Create User
 
 POST /api/users
-
+```
 📥 Sample Request
 
 {
@@ -105,7 +105,7 @@ POST /api/users
   "email": "rahul123@gmail.com",
   "age": 22
 }
-
+```
 ---
 
 📮 Postman Collection
