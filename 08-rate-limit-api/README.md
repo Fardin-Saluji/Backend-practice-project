@@ -119,6 +119,11 @@ http://localhost:3000
 
 ---
 
+🙌 Connect with Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/fardinsaluji/
+---
+
 📌 Conclusion
 
 This project demonstrates how to handle API abuse, spam requests, and performance issues using rate limiting.
