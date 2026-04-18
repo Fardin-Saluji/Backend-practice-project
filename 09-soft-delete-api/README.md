@@ -147,6 +147,11 @@ Production systems avoid permanent deletion and use soft delete to ensure data s
 
 ---
 
+🙌 Connect with Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/fardinsaluji/
+---
+
 ## 👨‍💻 Author
 
 Fardin Saluji
